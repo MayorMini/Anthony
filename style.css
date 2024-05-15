@@ -1,0 +1,68 @@
+.Div1{
+    color: white;
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    text-align: center;
+}
+.Div2{
+    color: red;
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    text-align: center;
+}
+.Div3{
+    color: blue;
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    text-align: center;
+}
+.Div4{
+    color: brown;
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    text-align: center;
+}
+.Div5{
+    color: green;
+    background-color: brown;
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    text-align: center;
+}
+.Div6{
+    color: orange;
+    background-image: url("./F3Id5j7XQAAGV2p.jpeg");
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    background-position: center;
+    text-align: center;
+}
+.Div7{
+    color: grey;
+    background-image: url("./FOekhd1XwAY8Xgd.jpeg");
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    background-position: center;
+    text-align: center;
+}
+.Div8{
+    color: purple;
+    background-color: orange;
+    background-image: url("./WhatsApp\ Image\ 2024-04-22\ at\ 13.54.06_5712e9cd.jpg");
+    width: 400px;
+    height: 400px;
+    font-size: 100px;
+    background-position: center;
+    text-align: center;
+}
